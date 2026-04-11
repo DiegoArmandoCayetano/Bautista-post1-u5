@@ -3,8 +3,6 @@
 
 API REST desarrollada con Spring Boot para la gestión de libros en una biblioteca.
 
----
-
 ## 🚀 Tecnologías utilizadas
 
 - Java 17+
@@ -13,7 +11,6 @@ API REST desarrollada con Spring Boot para la gestión de libros en una bibliote
 - Base de datos H2 (en memoria)
 - Maven
 
----
 
 ## ⚙️ Ejecución del proyecto
 
