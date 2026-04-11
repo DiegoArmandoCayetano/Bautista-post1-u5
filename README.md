@@ -59,7 +59,7 @@ DELETE /api/libros/{id}
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5c76c659-cdbc-4ad5-a86b-f1b8a5e3a27b" />
 
 ✅ Verificación en base de datos
-(IMG/Captura Verificación en base de datos.png)
+![base de datos](IMG/Captura Verificación en base de datos.png)
 
 ✅ Eliminación de libros (DELETE)
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/373dfd44-2be7-499a-b0ff-c733c2179dbc" />
