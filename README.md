@@ -47,7 +47,7 @@ DELETE /api/libros/{id}
 
 🧪 Pruebas realizadas
 ✅ Creación de libro (POST)
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f2906d29-3735-453f-9689-73f7f8ea6822" />
+![POST](https://github.com/user-attachments/assets/f2906d29-3735-453f-9689-73f7f8ea6822)
 
 ✅ Visualización en base de datos (H2)
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b72a302b-30b5-4e60-8b0b-f8d4f5af8daf" />
