@@ -1,6 +1,7 @@
-package com.universidad.patrones.service;
-import com.universidad.patrones.model.Libro;
-import com.universidad.patrones.repository.LibroRepository;
+package com.universidad.patrones.biblioteca_api.service;
+import com.universidad.patrones.biblioteca_api.model.Libro;
+import com.universidad.patrones.biblioteca_api.repository.LibroRepository;
+
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import java.util.*;

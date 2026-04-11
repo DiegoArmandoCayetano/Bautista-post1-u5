@@ -1,4 +1,4 @@
-package com.universidad.patrones.model;
+package com.universidad.patrones.biblioteca_api.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;

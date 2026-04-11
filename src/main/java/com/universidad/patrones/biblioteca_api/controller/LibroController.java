@@ -1,6 +1,7 @@
-package com.universidad.patrones.controller;
-import com.universidad.patrones.model.Libro;
-import com.universidad.patrones.service.LibroService;
+package com.universidad.patrones.biblioteca_api.controller;
+import com.universidad.patrones.biblioteca_api.model.Libro;
+import com.universidad.patrones.biblioteca_api.service.LibroService;
+
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

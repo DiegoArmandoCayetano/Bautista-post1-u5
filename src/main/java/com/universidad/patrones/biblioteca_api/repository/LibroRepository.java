@@ -1,9 +1,11 @@
-package com.universidad.patrones.repository;
-import com.universidad.patrones.model.Libro;
+package com.universidad.patrones.biblioteca_api.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
+
+import com.universidad.patrones.biblioteca_api.model.Libro;
+
 import java.util.List;
 @Repository
 
