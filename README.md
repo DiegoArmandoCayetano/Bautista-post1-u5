@@ -29,40 +29,31 @@ JDBC URL: jdbc:h2:mem:biblioteca_db
 User: sa
 Password: (vacío)
 📌 Endpoints disponibles
-➤ Crear libro
 
+➤ Crear libro
 POST /api/libros
 
 ➤ Listar libros
-
 GET /api/libros
 
 ➤ Buscar libros
-
 GET /api/libros/buscar?q=texto
 
 ➤ Eliminar libro
-
 DELETE /api/libros/{id}
 
 🧪 Pruebas realizadas
-✅ Creación de libro (POST)
-![POST](https://github.com/user-attachments/assets/f2906d29-3735-453f-9689-73f7f8ea6822)
+### 🗑️ Eliminar libro
+![Eliminar libro](docs/Evidencia_Delete_libro.PNG)
 
-✅ Visualización en base de datos (H2)
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b72a302b-30b5-4e60-8b0b-f8d4f5af8daf" />
+### 📄 Obtener libro (GET)
+![Obtener libro](docs/Evidencia_GET_libro.PNG)
 
-✅ Consulta de libros (GET)
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aa9ba344-d0f6-4055-bbda-6e2161ff62e4" />
+### ✅ Crear libro (POST)
+![Crear libro](docs/Evidencia_post_libro.PNG)
 
-✅ Creación de otro libro
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5c76c659-cdbc-4ad5-a86b-f1b8a5e3a27b" />
-
-✅ Verificación en base de datos
-![base de datos](img/Verificación_base_datos.PNG)
-
-✅ Eliminación de libros (DELETE)
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/373dfd44-2be7-499a-b0ff-c733c2179dbc" />
+### 🗄️ Verificación base de datos
+![Base de datos](docs/Verificación_base_datos.PNG)
 
 🎯 Funcionalidades
 Crear libros
@@ -70,6 +61,6 @@ Listar libros
 Buscar por título
 Eliminar libros
 Persistencia en base de datos en memoria
-👨‍💻 Autor
 
+👨‍💻 Autor
 Proyecto desarrollado por Diego Armando Cayetano.
