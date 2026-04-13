@@ -54,7 +54,7 @@ DELETE /api/libros/{id}
 ![Crear libro](./docs/Evidencia_post_libro.PNG)
 
 ### 🗄️ Verificación base de datos
-![Base de datos](./docs/Verificacion_base_datos.PNG)
+![Base de datos](./docs/Verificacion_base_datos.png)
 
 🎯 Funcionalidades
 Crear libros
