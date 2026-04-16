@@ -44,19 +44,29 @@ DELETE /api/libros/{id}
 
 # 📸 Evidencias del proyecto
 
+---
+
 ## 📦 Crear libro (POST)
+
 ![POST libro](./docs/Evidencia_post_libro.PNG)
 
+---
 
 ## 📋 Obtener libros (GET)
+
 ![GET libro](./docs/Evidencia_GET_libro.PNG)
 
+---
 
 ## ❌ Eliminar libro (DELETE)
+
 ![DELETE libro](./docs/Evidencia_Delete_libro.PNG)
 
+---
+
 ## 🗄️ Verificación base de datos
-![Base de datos](./docs/Verificacion_base_datos.png)
+
+![BD](./docs/Verificacion_base_datos.png)
 
 🎯 Funcionalidades
 Crear libros
