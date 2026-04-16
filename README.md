@@ -42,18 +42,18 @@ GET /api/libros/buscar?q=texto
 ➤ Eliminar libro
 DELETE /api/libros/{id}
 
-## 🧪 Pruebas realizadas
+# 📸 Evidencias del proyecto
 
-### 🗑️ Eliminar libro
-![Eliminar libro](./docs/Evidencia_Delete_libro.PNG)
+## 📦 Crear libro (POST)
+![POST libro](./docs/Evidencia_post_libro.PNG)
 
-### 📄 Obtener libro (GET)
-![Obtener libro](./docs/Evidencia_GET_libro.PNG)
+## 📋 Obtener libros (GET)
+![GET libro](./docs/Evidencia_GET_libro.PNG)
 
-### ✅ Crear libro (POST)
-![Crear libro](./docs/Evidencia_post_libro.PNG)
+## ❌ Eliminar libro (DELETE)
+![DELETE libro](./docs/Evidencia_Delete_libro.PNG)
 
-### 🗄️ Verificación base de datos
+## 🗄️ Verificación base de datos
 ![Base de datos](./docs/Verificacion_base_datos.png)
 
 🎯 Funcionalidades
