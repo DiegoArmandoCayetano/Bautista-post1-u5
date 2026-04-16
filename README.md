@@ -47,8 +47,10 @@ DELETE /api/libros/{id}
 ## 📦 Crear libro (POST)
 ![POST libro](./docs/Evidencia_post_libro.PNG)
 
+
 ## 📋 Obtener libros (GET)
 ![GET libro](./docs/Evidencia_GET_libro.PNG)
+
 
 ## ❌ Eliminar libro (DELETE)
 ![DELETE libro](./docs/Evidencia_Delete_libro.PNG)
