@@ -45,22 +45,22 @@ DELETE /api/libros/{id}
 EVIDENCIAS
 
 ## 🗑️ Eliminar libro (DELETE)
-![Eliminar Libro](./docs/Evidencia_Delete_libro.PNG)
+![Eliminar Libro](docs/Evidencia_Delete_libro.PNG)
 
 ---
 
 ## 📥 Obtener libros (GET)
-![GET Libros](./docs/Evidencia_GET_libro.PNG)
+![GET Libros](docs/Evidencia_GET_libro.PNG)
 
 ---
 
 ## 📤 Crear libro (POST)
-![POST Libro](./docs/Evidencia_post_libro.PNG)
+![POST Libro](docs/Evidencia_post_libro.PNG)
 
 ---
 
 ## 🗄️ Verificación base de datos
-![Verificación BD](./docs/Verificacion_base_datos.PNG)
+![Verificación BD](docs/Verificacion_base_datos.PNG)
 
 🎯 Funcionalidades
 Crear libros
