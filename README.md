@@ -50,7 +50,7 @@ EVIDENCIAS
 ---
 
 ## 📥 Obtener libros (GET)
-![GET Libros](docs/Evidencia_GET_libro.PNG)
+![GET Libros](https://raw.githubusercontent.com/DiegoArmandoCayetano/Bautista-post1-u5/main/docs/Evidencia_GET_libro.PNG)
 
 ---
 
