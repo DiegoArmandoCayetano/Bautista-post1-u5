@@ -42,6 +42,8 @@ GET /api/libros/buscar?q=texto
 ➤ Eliminar libro
 DELETE /api/libros/{id}
 
+EVIDENCIAS
+
 ## 🗑️ Eliminar libro (DELETE)
 ![Eliminar Libro](docs/Evidencia_Delete_libro.PNG)
 
@@ -58,7 +60,7 @@ DELETE /api/libros/{id}
 ---
 
 ## 🗄️ Verificación base de datos
-![Verificación BD](docs/Verificacion_base_datos.png)
+![Verificación BD](docs/Verificacion_base_datos.PNG)
 
 🎯 Funcionalidades
 Crear libros
